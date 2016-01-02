@@ -13,5 +13,5 @@
 * [thealphanerd](http://github.com/thealphanerd) - **Myles Borins** &lt;myles.borins@gmail.com&gt;
 * [orangemocha](https://github.com/orangemocha) - **Alexis Campailla** &lt;orangemocha@nodejs.org&gt;
 * [joaocgreis](https://github.com/joaocgreis) - **João Reis** &lt;reis@janeasystems.com&gt;
-* [santigimeno](https://github.com/santigimeno) - **Santiago Gimeno** &lt;antiago.gimeno@gmail.com&gt;
+* [santigimeno](https://github.com/santigimeno) - **Santiago Gimeno** &lt;santiago.gimeno@gmail.com&gt;
 
